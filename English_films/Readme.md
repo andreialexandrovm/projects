@@ -10,9 +10,9 @@
 
 ## Инструменты
 *pandas*  
-*nlp*
-*nltk*
-*pysrt*
-*spacy*
-*CatBoost*
+*nlp*  
+*nltk*  
+*pysrt*  
+*spacy*  
+*CatBoost*  
 *tf-idf*
